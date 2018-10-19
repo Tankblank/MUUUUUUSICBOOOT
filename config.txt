@@ -1,6 +1,6 @@
 token= NTAyOTA5MTg1Mzc0Mjg5OTMw.Dquzpg.ks9c6RhRVp72ngis0aM2zI8JU4o
 owner= 251494085859344385 
 prefix= --
-game= You have been paly :
+game= --help
 stayinchannel=flase
 songinstatus=true
